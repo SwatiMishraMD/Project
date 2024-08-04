@@ -1,25 +1,25 @@
 Hello student,
 Your target grade is: A
 Your passing grade is: C
-Your final percentage is: 72.00 %
-Your final letter grade is: C
+Your final percentage is: 89.94 %
+Your final letter grade is: B
 
 Assuming correct grades in all categories, weightage-proportionate marks are:
 
-Assignment: 20.00/30 (66.67 %, D) 
-Quiz: 20.00/30 (66.67 %, D)
-Exam: 16.00/20 (80.00%, B)
-Project: 16.00/20 (80.00 %, B)
+Assignment: 21.67/25 (86.67 %, B) 
+Quiz: 22.61/25 (90.43 %, A)
+Exam: 24.00/25 (96.00%, A)
+Project: 21.67/25 (86.67 %, B)
 
 Assuming hypothetical marks for Project and Exam categories, here are the required grades:
 
-Remaining total marks: 40
-Marks you need to get out of 40: 50.00
+Remaining total marks: 50
+Marks you need to get out of 50: 45.73
 
-Marks you need to get in EXAM out of 20: 25.00
-Marks you need to get in PROJECT out of 20: 25.00
-The percentage you need to get in EXAM: 125.00 %
-The percentage you need to get in PROJECT: 125.00 %
+Marks you need to get in EXAM out of 25: 22.86
+Marks you need to get in PROJECT out of 25: 22.86
+The percentage you need to get in EXAM: 91.45 %
+The percentage you need to get in PROJECT: 91.45 %
 
-Minimum marks needed for passing EXAM out of 20: 15.00
-Minimum marks needed for passing PROJECT out of 20: 15.00
+Minimum marks needed for passing EXAM out of 25: 12.86
+Minimum marks needed for passing PROJECT out of 25: 12.86
