@@ -1,6 +1,7 @@
 # Python Term Project
 # SwatiMishraPython_Grade_Project
 Python term project to calculate performance throughout the semester, keep track of progress, and know what grade is needed at semester end to pass and get target grade.
+How to - open all FOUR Python files (contain classes) and then run the "Main" project
 
 Inputs 
 1. Multiple values for - Quizzes and Labs/Assignments along with different maximum marks/grades for each input grade
